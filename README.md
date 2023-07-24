@@ -36,7 +36,7 @@ Na <void-works/>, nossa missão é cultivar um negócio próspero, nutrindo rela
 - **Comunidade e Responsabilidade Social:** além de nossas aspirações comerciais, reconhecemos a importância de sermos cidadãos corporativos responsáveis. Estamos empenhados em retribuir às comunidades que servimos e apoiar iniciativas que tenham um impacto positivo na sociedade e no meio ambiente.
 ## 🪐 Embrace the Void!
 
-![App Screenshot](https://i.ibb.co/61Fj89b/void.png)
+![App Screenshot](https://i.ibb.co/sp7t1Gx/void-light.png)
 
 
 ## 👥 Equipe
