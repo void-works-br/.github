@@ -1,5 +1,5 @@
 
-# Olá! Bem-vindos à <void-works/> !
+# Olá! Bem-vindos à Void Works !
 
 Se você chegou até aqui, meus agradecimentos! Somos a Void Works, uma iniciativa de trabalho cooperativo entre desenvolvedores freelancer e entusiatas que querem elevar cada vez mais seus conhecimentos no mundo do desenvolvimento de software. Sinta-se livre para contribuir em qualquer repositório público!
 
@@ -13,7 +13,7 @@ Se você chegou até aqui, meus agradecimentos! Somos a Void Works, uma iniciati
 
 ## ⚔️ Nossa missão
 
-Na <void-works/>, nossa missão é cultivar um negócio próspero, nutrindo relacionamentos significativos e duradouros com nossos clientes, ao mesmo tempo em que oferecemos serviços de qualidade e com cacipade de customização incomparáveis, tudo dentro de um ambiente de máxima transparência. Acreditamos firmemente que a base de qualquer empresa de sucesso reside na promoção da confiança e conexões genuínas com nossos valiosos clientes.
+Na Void Works, nossa missão é cultivar um negócio próspero, nutrindo relacionamentos significativos e duradouros com nossos clientes, ao mesmo tempo em que oferecemos serviços de qualidade e com cacipade de customização incomparáveis, tudo dentro de um ambiente de máxima transparência. Acreditamos firmemente que a base de qualquer empresa de sucesso reside na promoção da confiança e conexões genuínas com nossos valiosos clientes.
 
 
 ## 🛡️ Nossa abordagem
