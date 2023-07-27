@@ -1,5 +1,5 @@
 
-# Olá! Bem-vindos à Void Works !
+# Olá! Bem-vindos a Void Works !
 
 Se você chegou até aqui, meus agradecimentos! Somos a Void Works, uma iniciativa de trabalho cooperativo entre desenvolvedores freelancer e entusiatas que querem elevar cada vez mais seus conhecimentos no mundo do desenvolvimento de software. Sinta-se livre para contribuir em qualquer repositório público!
 
