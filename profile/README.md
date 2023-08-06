@@ -41,4 +41,5 @@ Na Void Works, nossa missão é cultivar um negócio próspero, nutrindo relacio
 
 ## 👥 Equipe
 
-- [@tymaeusz](https://www.github.com/tymaeusz)
+- [@tymaeusz](https://www.github.com/tymaeusz) - Fulltack Web Developer
+- [@gustavosombra1](https://www.github.com/gustavosombra1) - Trainee Developer
